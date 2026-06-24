@@ -1,20 +1,3 @@
-# Administración de Servicios en Linux – Apache/Nginx, Postfix y CUPS
-
-Repositorio que documenta la implementación y configuración de diferentes servicios de red en Linux, incluyendo un servidor web HTTP, un servidor de correo SMTP y un servidor de impresión. Cada práctica contiene evidencias, configuraciones, capturas de pantalla y pruebas de funcionamiento realizadas en un entorno Linux.
-
-Tecnologías utilizadas:
-
-* Apache2 / Nginx
-* Postfix SMTP
-* CUPS (Common UNIX Printing System)
-* HTML
-* Linux
-* Cliente Windows
-
-El objetivo de estas prácticas es comprender la instalación, configuración y administración de servicios fundamentales utilizados en entornos empresariales y de infraestructura TI.
-
-Y este README completo para GitHub:
-
 # Administración de Servicios en Linux
 
 **Autor:** Victor José De Peña Bernard
