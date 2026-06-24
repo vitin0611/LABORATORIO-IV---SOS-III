@@ -1,5 +1,3 @@
-Puedes usar esta descripción corta para el repositorio:
-
 # Administración de Servicios en Linux – Apache/Nginx, Postfix y CUPS
 
 Repositorio que documenta la implementación y configuración de diferentes servicios de red en Linux, incluyendo un servidor web HTTP, un servidor de correo SMTP y un servidor de impresión. Cada práctica contiene evidencias, configuraciones, capturas de pantalla y pruebas de funcionamiento realizadas en un entorno Linux.
